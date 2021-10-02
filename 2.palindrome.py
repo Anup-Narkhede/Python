@@ -1,4 +1,4 @@
-#Check weather given number is palindrome or not. [Check reverse and original no are same or not]. e.g 145
+#Check whether given number is palindrome or not. [Check reverse and original no are same or not]. e.g 145
 
 
 n=int(input("Enter number to check whether it is palindrome or not: "))
